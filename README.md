@@ -12,49 +12,56 @@ The platform leverages advanced AI models, including OpenAI Whisper Speech Recog
 
 🛠️ Technology Stack
 Frontend
-    React Native
-    Expo
-    React Navigation
-    Axios
-    Async Storage
-Backend  
-    Python
-    Flask
-    JWT Authentication
-    REST APIs
+
+    -React Native
+    -Expo
+    -React Navigation
+    -Axios
+    -Async Storage
+Backend 
+
+    -Python
+    -Flask
+    -JWT Authentication
+    -REST APIs
 Database
-    MongoDB
-    PyMongo
+
+    -MongoDB
+    -PyMongo
 Artificial Intelligence
-    OpenAI Whisper
-    Speech Recognition
-    Natural Language Processing
-    Pronunciation Similarity Algorithms
-    Jaro-Winkler Matching
+
+    -OpenAI Whisper
+    -Speech Recognition
+    -Natural Language Processing
+    -Pronunciation Similarity Algorithms
+    -Jaro-Winkler Matching
 Audio Processing
-    Speech-to-Text (STT)
-    Text-to-Speech (TTS)
-    Voice Feedback System
 
-🚀 Installation
-    Prerequisites
-    Node.js (v18+)
-    Python (3.10+)
-    MongoDB
-    Expo CLI
+    -Speech-to-Text (STT)
+    -Text-to-Speech (TTS)
+    -Voice Feedback System
+Installation
+    
+    -Prerequisites
+    -Node.js (v18+)
+    -Python (3.10+)
+    -MongoDB
+    -Expo CLI
 Backend Setup
-    cd BACKEND
 
-     pip install -r requirements.txt
+    -cd BACKEND
 
-     python app.py
+    -pip install -r requirements.txt
 
-     Backend Server:
+    -python app.py
+
+    -Backend Server:
 
 Mobile App Setup
-      cd MOBILE
 
-      npm install
+    -cd MOBILE
+
+    -npm install
 
       npx expo start
 
