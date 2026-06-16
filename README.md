@@ -63,7 +63,7 @@ Mobile App Setup
 
     -npm install
 
-      npx expo start
+    -npx expo start
 
-       Mobile Application:
+    -Mobile Application:
 
